@@ -5,7 +5,6 @@ import java.util.Map;
 /**
  * Computes the frequency of each integer in the given list.
  *
- * @param numbers the input list of integers
  * @return a map where each key is an integer from the list and each value is its frequency
  */
 public class FrequencyUtils {
